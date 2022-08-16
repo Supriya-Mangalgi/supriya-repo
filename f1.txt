@@ -3,3 +3,4 @@ line 2 added
 line 3 added
 line 4 added local
 line 4 added at feature1
+line added from remote
